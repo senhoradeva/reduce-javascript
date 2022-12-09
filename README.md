@@ -12,9 +12,9 @@ const result = numbers.reduce((prev, number) => {
 console.log('A soma dos valores é:', result); // A soma dos valores é: 12
 ```
 
---Mais um exemplo de reduce 
+#Mais um exemplo de reduce 
 
-```jxx
+```jsx
 
 const people = [
   {

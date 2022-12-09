@@ -10,9 +10,11 @@ const result = numbers.reduce((prev, number) => {
 }, 0);
 
 console.log('A soma dos valores é:', result); // A soma dos valores é: 12
+```
 
+--Mais um exemplo de reduce 
 
-
+```jxx
 
 const people = [
   {
@@ -43,5 +45,4 @@ const result = people.reduce((prev, person) => {
 
 console.log('O maior salário é:', result)//O maior salário é: 
 75000
-
 ```

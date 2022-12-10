@@ -44,8 +44,7 @@ const result = people.reduce((prev, person) => {
     return prev;
 }, 0);
 
-console.log('O maior salário é:', result)//O maior salário é: 
-75000
+console.log('O maior salário é:', result)//O maior salário é:75000
 ```
 
 # Exemplo três

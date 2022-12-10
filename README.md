@@ -3,7 +3,7 @@ Dicas marotas Javscript
 <p>A grande missão  reduce é  reduzir um array. Para isso,  itera por cada elemento de uma lista para gerar um único valor.</p>
 
 
-
+# Exemplo um
 ```jsx
 const numbers = [2, 7, 3, 1];
 
@@ -14,6 +14,7 @@ const result = numbers.reduce((prev, number) => {
 console.log('A soma dos valores é:', result); // A soma dos valores é: 12
 ```
 
+# Exemplo dois
 ```jsx
 
 const people = [
@@ -47,6 +48,7 @@ console.log('O maior salário é:', result)//O maior salário é:
 75000
 ```
 
+# Exemplo três
 ```jsx
 const animals = ['dog', 'cat', 'dog', 'dog', 'cow', 'cow'];
 
